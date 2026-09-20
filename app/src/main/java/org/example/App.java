@@ -6,6 +6,7 @@ public class App {
     System.out.println("Starting Counter");
     System.out.println("Total: " + counter.total());
     System.out.println("Overflow: " + counter.overFlow());
+    System.out.println();
 
     counter.tens();
     counter.tens();
